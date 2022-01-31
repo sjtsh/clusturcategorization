@@ -1,0 +1,6 @@
+BACKEND REQUIRED
+1. previous button needs to be added which will simultaneously show the images
+2. key binding needs to be done
+3. if the categorized image is already on the database then it should not be replaced
+4. find the length of the two images and compare in order to find the image while scanning through the files for previous
+or just search recreate the name from the database
